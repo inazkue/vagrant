@@ -1,0 +1,20 @@
+[user]
+[gui]
+[merge]
+[mergetool "kdiff3"]
+	path = C:/Program Files (x86)/KDiff3/kdiff3.exe
+[diff]
+	guitool = kdiff3
+[difftool "kdiff3"]
+	path = C:/Program Files (x86)/KDiff3/kdiff3.exe
+[core]
+	editor = \"C:/Program Files (x86)/GitExtensions/GitExtensions.exe\" fileeditor
+[gui]
+[gui]
+	recentrepo = C:/Users/Iñaki/Documents/ProyectosDjango
+	recentrepo = C:/Users/Iñaki/Documents/got
+[push]
+	default = matching
+[user]
+	email = inazkue@gmail.com
+	name = Iñaki Azkue
